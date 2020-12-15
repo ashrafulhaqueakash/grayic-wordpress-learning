@@ -1,0 +1,705 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ShadePro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-13 15:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid " "
+msgstr ""
+
+#: inc/classes/ShadeProMain.php:286
+msgid " Career"
+msgstr ""
+
+#: inc/template-tags.php:66 inc/template-tags.php:73
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. 1: title.
+#: comments.php:86
+msgid "01 Responses on this post"
+msgstr ""
+
+#: 404.php:18
+msgid "404 Error"
+msgstr ""
+
+#. Description of the theme
+msgid "A premium WordPress App Landing Theme"
+msgstr ""
+
+#: inc/widgets.php:12 inc/widgets.php:23
+msgid "Add widgets here."
+msgstr ""
+
+#: template-parts/single/career.php:23
+#: template-parts/contents/content-career.php:7
+msgid "address"
+msgstr ""
+
+#: functions.php:217 functions.php:233 functions.php:249 functions.php:265
+msgid "After you import this demo, you will have to setup the nav menu."
+msgstr ""
+
+#: inc/classes/ShadeProMain.php:311
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/classes/ShadeProMain.php:314
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: 404.php:20
+msgid "Back to Home"
+msgstr ""
+
+#: inc/theme-options.php:522
+msgid "Blog Grid"
+msgstr ""
+
+#: inc/theme-options.php:510
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/theme-options.php:488
+msgid "Blog Page"
+msgstr ""
+
+#: inc/theme-options.php:503
+msgid "Blog Page Hero Caption"
+msgstr ""
+
+#: inc/theme-options.php:496
+msgid "Blog Page Title"
+msgstr ""
+
+#: inc/widgets.php:10
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/theme-options.php:373
+msgid "Body Typography"
+msgstr ""
+
+#: inc/theme-options.php:457
+msgid "Breadcrumb Area Padding"
+msgstr ""
+
+#: inc/theme-options.php:442
+msgid "Breadcrumb Background"
+msgstr ""
+
+#: inc/theme-options.php:426
+msgid "Breadcrumb On/Off "
+msgstr ""
+
+#: inc/theme-options.php:434
+msgid "Breadcrumb Seperator "
+msgstr ""
+
+#: inc/theme-options.php:464
+msgid "Breadcrumb Typography"
+msgstr ""
+
+#: inc/theme-options.php:419
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/theme-options.php:297
+msgid "Button 1 Text"
+msgstr ""
+
+#: inc/theme-options.php:304
+msgid "Button 1 URL"
+msgstr ""
+
+#: inc/theme-options.php:310
+msgid "Button 2 Text"
+msgstr ""
+
+#: inc/theme-options.php:317
+msgid "Button 2 URL"
+msgstr ""
+
+#: inc/theme-options.php:587
+msgid ""
+"By accessing and placing an order with UXTheme, you confirm that you are in "
+"agreement with and bound by the terms and conditions."
+msgstr ""
+
+#: inc/theme-options.php:627
+msgid "Career Page"
+msgstr ""
+
+#: inc/theme-options.php:642
+msgid "Career Page Hero Caption"
+msgstr ""
+
+#: inc/theme-options.php:635
+msgid "Career Page Title"
+msgstr ""
+
+#: inc/theme-options.php:605 inc/theme-options.php:637
+msgid "Case Studies"
+msgstr ""
+
+#: inc/classes/ShadeProMain.php:284
+msgid "Case Study"
+msgstr ""
+
+#: inc/theme-options.php:595
+msgid "Case Study Page"
+msgstr ""
+
+#: inc/theme-options.php:610
+msgid "Case Study Page Hero Caption"
+msgstr ""
+
+#: inc/theme-options.php:603
+msgid "Case Study Page Title"
+msgstr ""
+
+#: inc/theme-options.php:511
+msgid "Choose the layout you want in blog pages"
+msgstr ""
+
+#: inc/theme-options.php:558
+msgid "Choose the layout you want in single pages"
+msgstr ""
+
+#: inc/theme-options.php:523
+msgid "Choose the number of column you want in blog pages"
+msgstr ""
+
+#: inc/theme-options.php:336
+msgid "Choose the site logo"
+msgstr ""
+
+#: comments.php:42
+msgid "Comment"
+msgstr ""
+
+#: inc/classes/ShadeProMain.php:317
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:35
+msgid "Comments are closed."
+msgstr ""
+
+#: template-parts/contents/content.php:57
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/theme-options.php:536
+msgid "Continue reading"
+msgstr ""
+
+#: inc/theme-options.php:534 inc/theme-options.php:617
+msgid "Continue Reading Button Title"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/single/career.php:37 template-parts/single/post.php:22
+#: template-parts/single/case-study.php:58
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/theme-options.php:670
+msgid "Copyright"
+msgstr ""
+
+#: inc/theme-options.php:443
+msgid "Customize your breadcrumb background area."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/contents/content-page.php:36
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: comments.php:53
+msgid "Email address"
+msgstr ""
+
+#: inc/theme-options.php:290
+msgid "Enable Header Buttons?"
+msgstr ""
+
+#: inc/theme-options.php:535 inc/theme-options.php:618
+msgid "Enter the button text for continue reading button."
+msgstr ""
+
+#: inc/classes/ShadeProMain.php:315
+msgid "Error 404"
+msgstr ""
+
+#: comments.php:54
+msgid "example@gmail.com"
+msgstr ""
+
+#: inc/theme-options.php:654
+msgid "Footer"
+msgstr ""
+
+#: inc/theme-options.php:228
+msgid "General Settings"
+msgstr ""
+
+#: inc/theme-options.php:643
+msgid "Give any breadcrumb page caption for the career page."
+msgstr ""
+
+#: inc/theme-options.php:611
+msgid "Give any breadcrumb page caption for the case study page."
+msgstr ""
+
+#: inc/theme-options.php:586
+msgid "Give any breadcrumb page caption for the Shop page."
+msgstr ""
+
+#: inc/theme-options.php:497 inc/theme-options.php:504
+msgid "Give any breadcrumb page title for the blog page."
+msgstr ""
+
+#: inc/theme-options.php:636
+msgid "Give any breadcrumb page title for the career page."
+msgstr ""
+
+#: inc/theme-options.php:604
+msgid "Give any breadcrumb page title for the case study page."
+msgstr ""
+
+#: inc/theme-options.php:579
+msgid "Give any breadcrumb page title for the shop page."
+msgstr ""
+
+#: inc/theme-options.php:551
+msgid "Give any breadcrumb page title for the single article page."
+msgstr ""
+
+#: inc/theme-options.php:671
+msgid "Give the copyright text"
+msgstr ""
+
+#. Author of the theme
+msgid "Grayic"
+msgstr ""
+
+#: inc/theme-options.php:262
+msgid "Header"
+msgstr ""
+
+#: inc/theme-options.php:244
+msgid "Heading Color"
+msgstr ""
+
+#: inc/theme-options.php:394
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/classes/ShadeProMain.php:310
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://grayic.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://uxtheme.net/demos/wp/shadepro-"
+msgstr ""
+
+#: template-parts/contents/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/single/career.php:26
+#: template-parts/contents/content-career.php:10
+msgid "job type"
+msgstr ""
+
+#: comments.php:49
+msgid "John Doe"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/theme-options.php:612 inc/theme-options.php:644
+msgid ""
+"Leverage agile frameworks to provide a robust synopsis for high level "
+"overviews. Iterative approaches to corporate strategy foster collaborative "
+"thinking."
+msgstr ""
+
+#: inc/theme-options.php:505
+msgid ""
+"Leverage agile frameworks to provide a robust synopsis for high level "
+"overviews. Iterative approaches."
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ""
+msgstr ""
+
+#: comments.php:125
+msgid "Load more comments"
+msgstr ""
+
+#: inc/theme-options.php:299
+msgid "Log In"
+msgstr ""
+
+#: inc/theme-options.php:328 inc/theme-options.php:335
+msgid "Logo"
+msgstr ""
+
+#: inc/theme-options.php:344
+msgid "Logo Max Width (Desktop)"
+msgstr ""
+
+#: inc/theme-options.php:354
+msgid "Logo Max Width (Mobile)"
+msgstr ""
+
+#: functions.php:52
+msgid "Main Menu"
+msgstr ""
+
+#: single.php:60
+msgid "Next:"
+msgstr ""
+
+#: template-parts/contents/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"Ops! It seems like the page you are looking for is not available! Please try "
+"again with another page or go back to home."
+msgstr ""
+
+#: inc/theme-options.php:498
+msgid "Our blog"
+msgstr ""
+
+#: inc/classes/ShadeProMain.php:292
+msgid "Our Products"
+msgstr ""
+
+#: inc/theme-options.php:580
+msgid "Our Shop"
+msgstr ""
+
+#: inc/classes/ShadeProMain.php:316
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: template-parts/single/career.php:50 template-parts/single/post.php:35
+#: template-parts/single/case-study.php:71
+#: template-parts/contents/content-page.php:22
+msgid "Pages:"
+msgstr ""
+
+#: inc/theme-options.php:245
+msgid "Pick a color for headings."
+msgstr ""
+
+#: inc/theme-options.php:253
+msgid "Pick a color for texts."
+msgstr ""
+
+#: inc/theme-options.php:237
+msgid "Pick a color for the theme."
+msgstr ""
+
+#: inc/theme-options.php:458
+msgid "Please specify breadcrumb area padding."
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:66
+msgid "Posted in:"
+msgstr ""
+
+#: inc/classes/ShadeProMain.php:313
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: single.php:59
+msgid "Previous:"
+msgstr ""
+
+#: inc/theme-options.php:236
+msgid "Primary Color"
+msgstr ""
+
+#: inc/classes/ShadeProMain.php:282
+msgid "Read from our blogs"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/contents/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:92
+#, php-format
+msgctxt "Responses title"
+msgid "%1$s Response on this post"
+msgid_plural "%1$s Responses on this post"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/ShadeProMain.php:312
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/classes/ShadeProMain.php:296
+msgid "Search results for: "
+msgstr ""
+
+#: inc/theme-options.php:619
+msgid "See Case Study"
+msgstr ""
+
+#: inc/theme-options.php:678
+msgid "Select Footer Template"
+msgstr ""
+
+#: inc/theme-options.php:276
+msgid "Select Header Template"
+msgstr ""
+
+#: inc/theme-options.php:345
+msgid "Set the logo maximum width size for desktop in px unit"
+msgstr ""
+
+#: inc/theme-options.php:355
+msgid "Set the logo maximum width size for mobile in px unit"
+msgstr ""
+
+#: inc/theme-options.php:389
+msgid "Set typography for body"
+msgstr ""
+
+#: inc/theme-options.php:479
+msgid "Set typography for breadcrumb title"
+msgstr ""
+
+#: inc/theme-options.php:411
+msgid "Set typography for heading"
+msgstr ""
+
+#. Name of the theme
+msgid "ShadePro"
+msgstr ""
+
+#: inc/theme-options.php:656
+msgid "ShadePro footer settings!"
+msgstr ""
+
+#: inc/theme-options.php:51 inc/theme-options.php:52
+msgid "ShadePro Options"
+msgstr ""
+
+#: inc/theme-options.php:570
+msgid "Shop Page"
+msgstr ""
+
+#: inc/theme-options.php:585
+msgid "Shop Page Breadcrumb Caption"
+msgstr ""
+
+#: inc/theme-options.php:578
+msgid "Shop Page Title"
+msgstr ""
+
+#: inc/theme-options.php:427
+msgid "Show/hide the breadcrumb."
+msgstr ""
+
+#: inc/theme-options.php:312
+msgid "Sign Up"
+msgstr ""
+
+#: inc/theme-options.php:542
+msgid "Single Page"
+msgstr ""
+
+#: inc/theme-options.php:557
+msgid "Single Page Layout"
+msgstr ""
+
+#: inc/theme-options.php:550
+msgid "Single Page Title"
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/contents/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/contents/content.php:36
+msgid "Sticky"
+msgstr ""
+
+#: comments.php:40
+msgid "Submit your response"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:73
+msgid "Tagged:"
+msgstr ""
+
+#: inc/theme-options.php:252
+msgid "Text Color"
+msgstr ""
+
+#: inc/theme-options.php:203
+msgid "Theme activated succeessfully!!"
+msgstr ""
+
+#: inc/theme-options.php:210
+msgid "Theme are not activated"
+msgstr ""
+
+#: inc/theme-options.php:177
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/theme-options.php:182
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/theme-options.php:189
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: inc/theme-options.php:178 inc/theme-options.php:183
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: inc/theme-options.php:428 inc/theme-options.php:444
+msgid "This setting can be override by page breatdcrumb settings."
+msgstr ""
+
+#: inc/theme-options.php:157
+msgid ""
+"This text is displayed above the options panel. It isn't required, but more "
+"info is always better! The intro_text field accepts all HTML."
+msgstr ""
+
+#: inc/theme-options.php:161
+msgid ""
+"This text is displayed below the options panel. It isn't required, but more "
+"info is always better! The footer_text field accepts all HTML."
+msgstr ""
+
+#: inc/theme-options.php:291
+msgid "Turn on/off header buttons"
+msgstr ""
+
+#: searchform.php:2
+msgid "Type to search"
+msgstr ""
+
+#: inc/theme-options.php:366
+msgid "Typography"
+msgstr ""
+
+#: inc/theme-options.php:664
+msgid "Use Custom Footer Template"
+msgstr ""
+
+#: inc/theme-options.php:270
+msgid "Use Custom Header Template"
+msgstr ""
+
+#: inc/theme-options.php:665
+msgid "Wish to use any custom footer template?"
+msgstr ""
+
+#: inc/theme-options.php:271
+msgid "Wish to use any custom header template?"
+msgstr ""
+
+#: inc/widgets.php:21
+msgid "Woocommerce Widgets"
+msgstr ""
+
+#: comments.php:43
+msgid "Write your comment"
+msgstr ""
+
+#: inc/theme-options.php:679
+msgid ""
+"You can build your footer with Elementor Sections manager and select that "
+"template section here so that your selected footer template will show all "
+"over the site."
+msgstr ""
+
+#: inc/theme-options.php:277
+msgid ""
+"You can build your Header with Elementor Sections manager and select that "
+"template section here so that your selected header template will show all "
+"over the site."
+msgstr ""
+
+#: comments.php:48
+msgid "Your name"
+msgstr ""
